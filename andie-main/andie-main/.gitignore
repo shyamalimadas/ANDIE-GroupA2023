@@ -1,0 +1,6 @@
+# ignore generated artefacts
+bin
+
+
+# Ignore VSCode settings
+.vscode/settings.json
